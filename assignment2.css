@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://plus.unsplash.com/premium_photo-1673548917645-e8d9ed21e2b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bGFwdG9wfGVufDB8fDB8fHww);
+    background-size: cover;
+    color: black;
+}
+
+p{
+    color:black;
+}
+
+
+
+h1{
+    color: red;
+}
+#id2{
+    text-decoration: underline;
+}
+#id3{
+    text-decoration: underline;
+}
